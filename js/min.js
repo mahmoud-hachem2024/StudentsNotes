@@ -1,0 +1,1 @@
+const fullName=document.querySelector('.fullName');
